@@ -65,6 +65,7 @@ amarelo
 ambiente
 ameixa
 amido
+amor
 amora
 amostra
 ampola
@@ -1159,6 +1160,7 @@ ministro
 minoria
 miolo
 mirante
+mito
 miudeza
 modal
 modem
